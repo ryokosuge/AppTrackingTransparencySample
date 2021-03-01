@@ -4,5 +4,5 @@ AppTrackingTransparency.frameworkを使ったサンプル
 
 ## 環境
 
-xcode: 12.3
+xcode: 12.4
 
